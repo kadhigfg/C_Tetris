@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\Tetris\Tetris\소스.cpp(136,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Tetris\Tetris\소스.cpp(148,30): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\Tetris\Tetris\소스.cpp(1068,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\Desktop\Tetris\Tetris\소스.cpp(1068,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Tetris.vcxproj -> C:\Users\user\Desktop\Tetris\Debug\Tetris.exe
